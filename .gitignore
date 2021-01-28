@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+*.html
+*.csv
+*.json
+*.pyc
+*/*.pyc
+venv/
+.scrapy/
